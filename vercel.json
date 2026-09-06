@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/workflow", "destination": "/workflow.html" },
+    { "source": "/admin", "destination": "/admin.html" }
+  ]
+}
